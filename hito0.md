@@ -12,9 +12,10 @@ Ahora mediante xclip copiaremos la clave pública, para añadirla a GitHub:
 En GitHub nos iremos a Settings -> SSH and GPG keys -> New SSH key, le pondremos un título a la nueva clave y la copiaremos, para terminar click en Add SSH key y nos pedirá nuestra contraseña de usuario.
 
 Todo este proceso se puede ver en:
-https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
-https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+[Creación de clave SSH](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+
+[Añadir clave SSH a GitHub](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 
 
 ### Configuración de nombre y correo electrónico para que aparezca en los commits
@@ -51,4 +52,4 @@ Para hacerle un commit a un issue será:
 
 Para cerrar un issue haremos:
 
-`git commit -m "closes \#1"`
+`git commit -m "comentario close \#1 "`
