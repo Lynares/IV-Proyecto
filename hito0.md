@@ -51,4 +51,4 @@ Para hacerle un commit a un issue será:
 
 Para cerrar un issue haremos:
 
-`git commit -m "close \#1"`
+`git commit -m "closes \#1"`
