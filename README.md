@@ -1,7 +1,15 @@
-# IV-Proyecto
+# LaRutaDeLaTapa
 
-En este repositorio se encontrará todo lo relacionado con el proyecto de IV.
+### Descripción
 
-### Descripción del proyecto
+Proyecto en el cuál se podran consultar los mejores bares con sus mejores tapas. Una guía de los mejores sitios para ir durante la Feria de la Tapa de Granada y en el cual se podrá votar por las mejores tapas, de forma que se use para dirimir el ganador del concurso.
 
-Todavía no he decidido de que voy a hacer el proyecto, por lo que lo dejaré para el próximo hito, de esta forma tendré más tiempo para pensar en un proyecto que pueda ser interesante.
+Se usará como base la aplicación que creé el año pasado para la asignatura de DAI, pero cambiando muchos aspectos y añadiendo varias funcionalidades, así como distintos roles de usuario, de forma que quede una aplicación web totalmente funcional.
+
+Lo que se usó para este proyecto fue:
+
+- Phyton.
+- Django.
+- MongoDB.
+- AJAX.
+- JQuery.
