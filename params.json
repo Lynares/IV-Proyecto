@@ -1,0 +1,6 @@
+{
+  "name": "LaRutaDeLaTapa",
+  "tagline": "",
+  "body": "## Descripción\r\n\r\nProyecto en el cuál se podrán consultar los mejores bares con sus mejores tapas. Una guía de los mejores sitios para ir durante la Feria de la Tapa de Granada y en el cual se podrá votar por las mejores tapas, de forma que se use para dirimir el ganador del concurso.\r\n\r\nSe usará como base la aplicación que creé el año pasado para la asignatura de DAI, pero cambiando muchos aspectos y añadiendo varias funcionalidades, así como distintos roles de usuario, de forma que quede una aplicación web totalmente funcional.\r\n\r\nLo que se usó para este proyecto fue:\r\n\r\n- Python.\r\n- Django.\r\n- MongoDB.\r\n- AJAX.\r\n- JQuery.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
